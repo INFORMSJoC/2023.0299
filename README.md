@@ -39,7 +39,7 @@ The main folders are `data`, `results`, and `src`.
 In order to run this software, you must install Gurobi 9.5.2 from https://www.gurobi.com/downloads/gurobi-software/.
 
 ## Data
-The  datasets used for the numerical study are available at https://www.dropbox.com/sh/yghjzve0pj9km48/AABUJGbeblGd2VQ3K7iruC04a?dl=0.
+The  datasets used for the numerical study are available in the `data` directory.
 
 ## Reproduce numerical results
 
